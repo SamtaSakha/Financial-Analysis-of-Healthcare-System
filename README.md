@@ -7,7 +7,19 @@ This project is part of the **IBM SkillsBuild Winter Virtual Internship Program 
 The dashboard analyzes healthcare financial data to identify trends in revenue,
 expenses, patient distribution, and treatment costs using interactive visualizations.
 
----
+
+## 📌 Problem Statement
+Healthcare organizations generate large volumes of financial data related to
+revenue, expenses, patient counts, and treatment costs. However, without proper
+analysis, it becomes difficult to identify financial trends, cost inefficiencies,
+and resource allocation gaps.
+
+This project aims to analyze healthcare financial data using interactive Tableau
+visualizations to understand revenue and expense trends, regional cost variations,
+patient distribution across departments, and treatment cost patterns. The insights
+derived can support better financial planning, cost optimization, and sustainable
+healthcare management.
+
 
 ## 🎯 Objective
 - Analyze real-world healthcare finance data
@@ -16,13 +28,12 @@ expenses, patient distribution, and treatment costs using interactive visualizat
 - Provide data-driven insights and recommendations
 - Align analysis with **UN Sustainable Development Goals (SDGs)**
 
----
+
 
 ## 🌍 UN SDGs Addressed
 - **SDG 3 – Good Health and Well-Being**
 - **SDG 8 – Decent Work and Economic Growth**
 
----
 
 ## 📂 Dataset
 - Healthcare financial dataset
@@ -34,7 +45,7 @@ expenses, patient distribution, and treatment costs using interactive visualizat
   - Treatment Costs
   - Region, Department, Year, Payment Method
 
----
+
 
 ## 📈 Dashboard Visualizations
 The Tableau dashboard includes:
@@ -53,7 +64,7 @@ The Tableau dashboard includes:
 
 5. **Bar Chart** – Profit by Payment Method  
 
----
+
 
 ## 🔍 Key Insights
 - Revenue and expenses increase over time
@@ -61,7 +72,7 @@ The Tableau dashboard includes:
 - Patient load varies across departments
 - Some treatment types consume a major share of costs
 
----
+
 
 ## 💡 Recommendations
 - Optimize high-cost treatment processes
@@ -69,18 +80,11 @@ The Tableau dashboard includes:
 - Allocate resources based on patient demand
 - Encourage cost-effective payment methods
 
----
+
 
 ## 🛠 Tools Used
 - **Tableau Desktop**
 - Microsoft Excel (for dataset)
-
----
-
-## 📁 Project File
-- Tableau Dashboard File:
-## 🔗 Project Link
-👉 [View the Tableau Dashboard](https://public.tableau.com/views/SamtaSakha_Financial_Analysis_of_Healthcare_System)
 
 
 
