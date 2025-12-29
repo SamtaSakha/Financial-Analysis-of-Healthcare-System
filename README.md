@@ -1,6 +1,8 @@
 # 📊 Financial Analysis of Healthcare System 
 
-![Dashboard_Screenshot](Screenshots/Financial_Analysis_of_HealthCare_System.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/SamtaSakha/Financial-Analysis-of-Healthcare-System/main/Screenshots/Financial_Analysis_of_HealthCare_System.png)
+
+
 ## 📌 Project Overview
 This project is part of the **IBM SkillsBuild Winter Virtual Internship Program 2025**  
 (Deliverable 2: Tableau Dashboard Project).
