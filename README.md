@@ -78,8 +78,10 @@ The Tableau dashboard includes:
 ---
 
 ## 📁 Project File
-- Tableau Dashboard File:  
-  Read the [Dashboard]-[Samta Sakha_Financial Analysis of Healthcare System.twb].
+- Tableau Dashboard File:
+## 🔗 Project Link
+👉 [View the Tableau Dashboard](https://public.tableau.com/views/SamtaSakha_FinancialAnalysisofHealthcareSystem)
+
 
 
 ---
