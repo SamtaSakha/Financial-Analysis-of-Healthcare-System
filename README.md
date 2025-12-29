@@ -80,7 +80,9 @@ The Tableau dashboard includes:
 ## 📁 Project File
 - Tableau Dashboard File:
 ## 🔗 Project Link
-👉 [View the Tableau Dashboard](https://public.tableau.com/views/SamtaSakha_FinancialAnalysisofHealthcareSystem)
+👉 [View the Tableau Dashboard](https://public.tableau.com/views/SamtaSakha_Financial_Analysis_of_Healthcare_System)
+
+
 
 
 
