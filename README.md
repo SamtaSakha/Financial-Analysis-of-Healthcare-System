@@ -79,11 +79,12 @@ The Tableau dashboard includes:
 
 ## 📁 Project File
 - Tableau Dashboard File:  
-  `Samta_TableauDashboard_FinancialInclusion.twbx`
+  Read the [Dashboard]-[Samta Sakha_Financial Analysis of Healthcare System.twb].
+
 
 ---
 
 ## 👩‍💻 Author
 **Samta Sakha**  
-BSc Data Science & Artificial Intelligence  
-IBM SkillsBuild Winter Certification Program 2025
+Data Science & Artificial Intelligence  
+IBM SkillsBuild Winter Virtual Internship Program 2025
