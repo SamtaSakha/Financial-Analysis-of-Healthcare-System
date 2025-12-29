@@ -1,6 +1,6 @@
 # 📊 Financial Analysis of Healthcare System 
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/SamtaSakha/Financial-Analysis-of-Healthcare-System/main/Screenshots/Financial_Analysis_of_HealthCare_System.png)
+![Dashboard Screenshot](https://github.com/SamtaSakha/Financial-Analysis-of-Healthcare-System/commit/bf2d95ed8073a80a06eeb27ade775a62dc26b912)
 
 
 ## 📌 Project Overview
